@@ -1,2 +1,1 @@
-This is my nano Second readme file
-This is my scond readme
+Alx Software engineering is so cool
